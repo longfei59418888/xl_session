@@ -1,0 +1,15 @@
+{
+  "name": "xl_session",
+  "version": "1.0.3",
+  "description": "用于session管理，并且做了兼容",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "./bin/xl_session.js",
+  "author": "xiaolong",
+  "license": "ISC",
+  "dependencies": {
+    "xl_cookie": "^1.0.3"
+  }
+}
